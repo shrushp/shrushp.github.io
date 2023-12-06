@@ -74,6 +74,10 @@
       description:
         - **Project Title:** Developing Haar-Wavelet inspired quantum-convolutional filter for QCNNs.  
         - **Project Supervisior:** Prof. Prasanta Panigrahi.
+<<<<<<< HEAD
+=======
+        # link to the project page
+>>>>>>> 2f9cb325fae54242dbad97f2ea35f2718e675d61
         - **Project Page:** <a href="https://github.com/Next-di-mension/qnn-qhw">Haar-Wavelet inspired quantum-convolutional filter for QCNNs</a>
 
     - title: Semester Project Student
