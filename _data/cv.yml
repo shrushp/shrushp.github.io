@@ -43,49 +43,44 @@
       year: Nov 2023 - Present
       description:
       
-        - **Project Title:** Develpment of resource-efficient chemistry-inspired dynamic ansatz for VQE.  
-        - **Project Supervisior:** Prof. Rahul Maitra.
+        - Project Title: Develpment of resource-efficient chemistry-inspired dynamic ansatz for VQE.  
+        - Project Supervisior: Prof. Rahul Maitra.
         
     - title: Reaearch Intern
       institution: IBM Research, Quantum Biology Division
       year: June 2023 - Oct 2023
       description:
-        - **Project Title:** Hybrid quantum-classical graph neural networks for tumor classification in digital pathology.  
-        - **Project Supervisior:** Dr. Anupama Ray and Dr. Dhiraj Madan.
+        - Project Title: Hybrid quantum-classical graph neural networks for tumor classification in digital pathology.  
+        - Project Supervisior: Dr. Anupama Ray and Dr. Dhiraj Madan.
 
     - title: Summer Research Intern
       institution: Center of Quantum Engineering, Research and Education, TCG CREST
       year: May 2023 -August 2023
       description:
-        - **Project Title:** fficient learning of single copy quantum states.  
-        - **Project Supervisior:** Dr. Shibdas Roy.
+        - Project Title: Efficient learning of single copy quantum states.  
+        - Project Supervisior: Dr. Shibdas Roy.
 
 
     - title: Masters thesis student
       institution: Indian Institute of Science Education and Research Kolkata (IISER-K)
       year: May 2022 - April 2023
       description:
-        - **Project Title:** Solving large-scale combinatorial optimization problems through VQA and unsupervised clustering.  
-        - **Project Supervisior:** Prof. Prasanta Panigrahi.
+        - Project Title: Solving large-scale combinatorial optimization problems through VQA and unsupervised clustering.  
+        - Project Supervisior: Prof. Prasanta Panigrahi.
 
     - title: Research Intern
       institution: Indian Institute of Science Education and Research Kolkata (IISER-K)
       year: Jan 2023 - April 2023
       description:
-        - **Project Title:** Developing Haar-Wavelet inspired quantum-convolutional filter for QCNNs.  
-        - **Project Supervisior:** Prof. Prasanta Panigrahi.
-<<<<<<< HEAD
-=======
-        # link to the project page
->>>>>>> 2f9cb325fae54242dbad97f2ea35f2718e675d61
-        - **Project Page:** <a href="https://github.com/Next-di-mension/qnn-qhw">Haar-Wavelet inspired quantum-convolutional filter for QCNNs</a>
-
+        - Project Title: Developing Haar-Wavelet inspired quantum-convolutional filter for QCNNs.  
+        - Project Supervisior: Prof. Prasanta Panigrahi.
+        
     - title: Semester Project Student
       institution: Indian Institute of Science Education and Research Tirupati (IISER-T)
       year: Jan 2022 - May 2022
       description:
-        - **Project Title:** Quantification of chaos in various quantum systems via OTOCs.  
-        - **Project Supervisior:** Prof. Sambuddha Sanyal.
+        - Project Title: Quantification of chaos in various quantum systems via OTOCs.  
+        - Project Supervisior: Prof. Sambuddha Sanyal.
 - title: Open Source Projects
   type: time_table
   contents:
