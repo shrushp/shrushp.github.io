@@ -1,34 +1,38 @@
-"P. K. Panigrahi":
-  - firstname: ["Prasanta", "P. K.", "P. K. Panigrahi","P."]
+"Panigrahi":
+  - firstname: ["Prasanta", "P. K.", "P. K. Panigrahi","P.","Prasanta K."]
     url: https://scholar.google.co.in/citations?user=sNq6fwwAAAAJ&hl=en
 
-"Shreya Banerjee":
+"Banerjee":
   - firstname: ["Shreya","S."]
     url: https://scholar.google.com/citations?user=r2Szz84AAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ray":
+  - firstname: ["Anupama"]
+    url: https://research.ibm.com/people/anupama-ray
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Madan": 
+  - firstname: ["Dhiraj"]
+    url: https://scholar.google.com/citations?hl=en&user=ttdTf3YAAAAJ&view_op=list_works
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Pati":
+  - firstname: ["Pushpak"]
+    url: hhttps://scholar.google.co.uk/citations?user=ovKgEeIAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Rapsomaniki,":
+  - firstname: ["Maria Anna"]
+    url: https://research.ibm.com/people/marianna-rapsomaniki
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Caruso":
+  - firstname: ["Filippo"]
+    url: https://scholar.google.it/citations?user=qniSN5QAAAAJ&hl=en
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Roy":
+  - firstname: ["Shibdas"]
+    url: https://scholar.google.com.au/citations?user=RJYsWh4AAAAJ&hl=en
+
+"Patil":
+  - firstname: ["Srushti"]
+    url: https://scholar.google.com/citations?user=7e_nO0cAAAAJ&hl=en

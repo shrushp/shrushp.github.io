@@ -627,11 +627,14 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  /*width: 80%;  /* or use max-width if you prefer */
+  margin-left: 2em;
+  margin-right: 2em;
 
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
-    text-align: center;
+    text-align: left;
     margin-top: 1em;
     margin-bottom: 1em;
   }
