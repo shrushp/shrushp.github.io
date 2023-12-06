@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Srushti Patil
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th Sept 2000
     - name: Languages
-      value: English, German
+      value: Marathi, Hindi, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors and Masters (BS-MS) 
+      institution: Indian Institute of Science Education and Research Tiruapti
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,19 +21,26 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Higher Secondary School
+      institution: Shraddha Institute of Career Develpoement, Ichalkaranji
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Secondary School 
+      institution: Warana Vidyalaya, Warananagar
+      year: 2016
       description:
         - Description 1.
         - Description 2.
 
-- title: Experience
+
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant 
+      institution: Indian Institute of Technology Bombay
+      year: Nov 2023 - Present
       description:
         - Description 1.
         - Description 2.
