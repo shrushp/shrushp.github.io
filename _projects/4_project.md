@@ -1,24 +1,14 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Haar-Wavelet inspired Quanvolutional filter
+description: Quantum Haar-Wavelet convolution 
+img: assets/img/qhw.png
+importance: 4
+category: Minor
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This proposed model is a hybrid model. It consists of two sections: a quanvolutional filter part and then a classical layer part. First, we create a quanvolutional filter. a transformational layer called a ”quanvolutional layer,” which operates on input data by locally transforming the data using random quantum circuits, similar to the transformations performed by random convolutional filter layers. Quanvolutional layers apply random quantum circuits to input data, enabling local transformations and feature extraction.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: Classical-quantum CNN on MRI brain scans
 description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+img: assets/img/qnn.png
+importance: 5
+category: Minor
 ---
 
 Every project has a beautiful feature showcase page.

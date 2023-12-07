@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Quantification of quantum chaos using OTOCs 
+description: Semester Project
+img: assets/img/otoc.png
+importance: 6
+category: Minor 
 ---
 
 Every project has a beautiful feature showcase page.
