@@ -38,7 +38,7 @@ In the standard practice, we compute the power at each level to determine the do
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Convolutions generated from each channel
 </div>
 
 Source code: 
