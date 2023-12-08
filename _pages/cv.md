@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: 
-description: CV
+description: cv
 toc:
   sidebar: false
 ---
