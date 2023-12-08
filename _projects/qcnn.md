@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classical-quantum CNN on MRI brain scans
-description: a project with a background image
+description: hybrid image classification model
 img: assets/img/qnn.png
 importance: 5
 category: Minor
