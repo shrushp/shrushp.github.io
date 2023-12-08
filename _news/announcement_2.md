@@ -1,32 +1,26 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Defended my thesis and got my first work arxived!
+date: 2023-05-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Firstly, I enjoyed my thesis throughout the year. It was a wonderful experience full
+of excitement, frustrations, ups, downs (mostly downs), and self-discovery but yeah
+it was worth it. First and foremost, I would like to acknowledge my supervisor Prof.
+Prasanta Panigrahi for his unwavering support and for giving me time-to-time valuable
+suggestions to improve my work. I am also grateful to Shreya di for bearing me for a
+whole year! and for her patient guidance during the times when I felt intimidated
+as a novice in the field. It got better with time because of her. Now comes the most
+important part, I am grateful to my mumma, papa, nana, nani, and dadu for believing
+in me, loving me unconditionally, and always letting me do whatever I am interested
+in. I am thankful to my best friends Shekhar and Sumana for listening to my crying
+and ‘Dude my result is not coming’ episodes. I love them for not abandoning me
+and they are the best thing that ever happened to me. I owe my deepest gratitude
+to Ananyapam for bearing with me during times when I was not easy to be with. I
+am thankful to him for being my home where everything was new. I would also like
+to show my gratitude to Arman Bhaiyya for providing me with his great company
+and his constant support despite all my tantrums. Finally, I am thankful to all my
+labmates for the fruitful discussions.
 
-***
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

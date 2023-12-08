@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Research Assistant</b> @ <a href='https://www.iitb.ac.in/'>IIT Bombay</a> • <b>Previously:</b> <a href='https://www.mpinat.mpg.de/soeding'> IBM Research</a> | <a href='https://www.iiserkol.ac.in/'>IISER Kolkata</a>
+subtitle: <b>Research Assistant</b> @ <a href='https://www.iitb.ac.in/'>IIT Bombay</a> • <b>Previously:</b> <a href='https://research.ibm.com/labs/india'> IBM Research</a> | <a href='https://www.iisertirupati.ac.in/'>IISER Tiruapti</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 

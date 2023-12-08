@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Next-di-mension
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Next-di-mension/many-body-error-mitigation
+  - Next-di-mension/qnn-qhw
+  - Next-di-mension/qhack_challange
+  - Next-di-mension/measurement-based-clustering
+  - Next-di-mension/combinatorial_opt_QUIMB
+
+
