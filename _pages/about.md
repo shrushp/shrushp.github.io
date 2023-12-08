@@ -21,7 +21,7 @@ Hi there! I'm Srushti, currently a Research Assistant at IIT-Bombay, working on 
 During my highschool years, I used to love solving Physics problems like finding the charge on a hollow sphere or the crazy relative velocity ones! When I first learned about Kepler's Laws, I was awstruck by the very idea of planets following trajectories and how intact is everything, not too big, not too small, just perfect! And we can actually do some math about it!(There is a [podcast](https://www.youtube.com/watch?v=s78hvV3QLUE&t=2149s) of Lex Fridman with Leonard Susskind which touches the math part very beautifully) This led me to persue my career in Physics as major durig my undergraduate years. 
 
 > Working on a research problem; very similar to starting a band together :D
-> -phdcomics
+> - phdcomics
 
 I am always open to discuss physics and any wild ideas that come to your mind! I love [One Direction](https://www.youtube.com/@onedirectionchannel) btw! .. and a bit of [The Lumineers](https://www.youtube.com/@TheLumineers) too!
 
