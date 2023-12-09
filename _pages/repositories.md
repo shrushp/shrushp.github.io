@@ -33,6 +33,10 @@ nav_order: 3
 {% endif %}
 {% endif %}
 
+### Contribution Graph
+
+<img src="http://ghchart.rshah.org/Next-di-mension" alt="Srushti's Github chart" />
+
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
