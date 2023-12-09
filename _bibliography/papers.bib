@@ -12,7 +12,9 @@
   primaryClass={quant-ph},
   selected={true},
   preview={GNN_VQC.png},
-  doi={https://arxiv.org/abs/2310.11353}}
+  doi={https://arxiv.org/abs/2310.11353},
+  abstract={This paper presents a novel approach in the intersection of quantum computing and machine learning, specifically focusing on the application of a hybrid quantum-classical graph neural network (GNN) for tumor classification in digital pathology. The proposed methodology integrates a Variational Quantum Classifier (VQC) with GNN, exploring two variants: one with fixed pretrained GNN parameters and another with end-to-end training of GNN+VQC. The study reveals that the hybrid model achieves comparable performance to state-of-the-art classical GNNs in weighted precision, recall, and F1-score. Additionally, it demonstrates the efficacy of amplitude encoding in compressing information with a logarithmic number of qubits, outperforming classical compression techniques. The research also highlights the advantages of end-to-end training in enhancing the model's performance.}
+}
 
 @misc{roy2023efficient,
   title={Efficient learning of arbitrary single-copy quantum states}, 
@@ -21,7 +23,8 @@
   eprint={2310.19748},
   archivePrefix={arXiv},
   primaryClass={physics.gen-ph},
-  preview={qpe3.png}
+  preview={qst_algo.png},
+  abstract={Quantum state tomography is the problem of estimating a given quantum state. Usually, it is required to run the quantum experiment - state preparation, state evolution, measurement - several times to be able to estimate the output quantum state of the experiment, because an exponentially high number of copies of the state is required. In this work, we present an efficient algorithm to estimate with a small but non-zero probability of error the output state of the experiment using a single copy of the state, without knowing the evolution dynamics of the state. It also does not destroy the original state, which can be recovered easily for any further quantum processing. As an example, it is usually required to repeat a quantum image processing experiment many times, since many copies of the state of the output image are needed to extract the information from all its pixels. The information from N pixels of the image can be inferred from a single run of the image processing experiment in our algorithm, to efficiently estimate the density matrix of the image state.}
 }
 
 @misc{patil2023measurementbased,
@@ -31,8 +34,22 @@
   eprint={2302.00566},
   archivePrefix={arXiv},
   primaryClass={quant-ph},
-  preview={city_out.png},
-  doi={https://arxiv.org/abs/2302.00566}
+  preview={circ_algo_dep.png},
+  doi={https://arxiv.org/abs/2302.00566},
+  abstract={In this paper, two novel measurement-based clustering algorithms are proposed based on quantum parallelism and entanglement. The Euclidean distance metric
+  is used as a measure of ‘similarity’ between the data points. The first algorithm
+  follows a divisive approach. The second algorithm is based on unsharp measure-
+  ments where we construct the set of effect operators with a Gaussian probability
+  distribution to cluster similar data points. One major advantage of both the pro-
+  posed algorithms is that they are simplistic in nature and easy to implement. We
+  have successfully applied both algorithms on a concentric circle data set where
+  the classical clustering approach fails. It is found that the presented clustering
+  algorithms perform better than the classical divisive one; both in terms of clus-
+  tering and time complexity which is found to be O(kN(logN)^2) for the first
+  and $O(N^2)$ for the second one. Alongside, we also implemented the algorithm on
+  the Churrtiz data set of cities and the Wisconsin breast cancer dataset where we
+  found an accuracy of approximately 97.43% which for the latter case is achieved
+  by the appropriate choice of the variance of the Gaussian window.}
 }
 
 
